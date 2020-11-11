@@ -8,6 +8,24 @@ sites:
     url: https://kyupark.com
   - name: YejinLee.org
     url: https://yejinlee.org
+  - name: SG JIRA
+    url: https://jira.sophiagenetics.com
+  - name: SG CHA
+    url: https://cha.sophiagenetics.com/sga/status/infos.json
+  - name: SG FRA
+    url: https://fra.sophiagenetics.com/sga/status/infos.json
+  - name: SG NL
+    url: https://nl.sophiagenetics.com/sga/status/infos.json
+  - name: SG TR
+    url: https://tr.sophiagenetics.com/sga/status/infos.json   
+  - name: SG US
+    url: https://us.sophiagenetics.com/sga/status/infos.json
+  - name: SG CA
+    url: https://ca.sophiagenetics.com/sga/status/infos.json
+  - name: SG BR
+    url: https://br.sophiagenetics.com/sga/status/infos.json
+  - name: SG OZ
+    url: https://aus.sophiagenetics.com/sga/status/infos.json       
 notifications:
   - type: slack
     channel: C016QTU9S9Y
