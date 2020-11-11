@@ -2,18 +2,12 @@ owner: koj-co
 repo: upptime
 user-agent: KojBot
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Internet Archive
-    url: https://archive.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Kyu.co
+    url: https://kyu.co
+  - name: KyuPark.com
+    url: https://kyupark.com
+  - name: YejinLee.org
+    url: https://yejinlee.org
 notifications:
   - type: slack
     channel: C016QTU9S9Y
